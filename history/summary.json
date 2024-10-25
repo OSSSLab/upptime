@@ -4,7 +4,7 @@
     "url": "http://www.osss.cs.tsukuba.ac.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.osss.cs.tsukuba.ac.jp.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 2043,
     "timeMonth": 2043,
     "timeYear": 2043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   }
 ]
