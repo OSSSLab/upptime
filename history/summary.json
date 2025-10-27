@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.osss.cs.tsukuba.ac.jp.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.54%",
     "time": 2559,
     "timeDay": 0,
-    "timeWeek": 2129,
-    "timeMonth": 2423,
+    "timeWeek": 2123,
+    "timeMonth": 2403,
     "timeYear": 2564,
     "dailyMinutesDown": {
       "2025-07-22": 5,
@@ -25,8 +25,7 @@
       "2024-11-22": 56,
       "2024-11-19": 621,
       "2024-11-18": 5,
-      "2024-10-28": 94,
-      "2024-10-27": 1440
+      "2024-10-28": 94
     }
   }
 ]
